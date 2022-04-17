@@ -22,12 +22,6 @@ public class Product {
 	public void setProductName(String productName) {
 		this.productName = productName;
 	}
-	public String getBrand() {
-		return category;
-	}
-	public void setBrand(String brand) {
-		this.category = brand;
-	}
 	public int getQuantity() {
 		return quantity;
 	}
